@@ -13,3 +13,11 @@ Parainicar un repo debemos conocer las bases de GitHub,
   - Definir si el repo va a ser publico o privado
   - Crear nuevo repo
   - [Mira este ejemplo](https://github.com)
+
+```sh
+git init
+git status
+git add
+git commit
+git push
+```
