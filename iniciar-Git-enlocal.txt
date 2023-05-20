@@ -1,0 +1,9 @@
+Este archivo se crea para saber como inicar git en un ambiente local
+
+1. git init
+2. Crear archivos necesarios
+3. agregar los archivos 
+4. crear el commit
+5. en caso de crear una rama nueva utilizar branch
+6. agregamos el orgien al cual vamos a hacer push "git remote add origin URL"
+7. hacer el push a mi repo en mi rama
