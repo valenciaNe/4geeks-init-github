@@ -1,3 +1,4 @@
 Este arechivo se creo con la finalidad de explicar como crear un repo nuevo en git hub
 este es un cambio local y no desde git hub
 parrafo extra iniciar
+Cambio desde github y no desde local
