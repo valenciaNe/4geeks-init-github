@@ -1,1 +1,2 @@
 Este arechivo se creo con la finalidad de explicar como crear un repo nuevo en git hub
+Cambio desde github y no desde local
